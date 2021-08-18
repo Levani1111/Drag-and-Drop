@@ -5,24 +5,25 @@
 }
 
 body {
-	background-color: #FFCE00;
+	background-color: #c6e5ff;
 	font-family: 'Roboto', Helvetica, sans-serif;
 }
 
 .app {
 	display: flex;
 	flex-flow: column;
-
-	width: 100vw;
+    width: 100vw;
 	height: 100vh;
 }
 
-header {
+header, h1 {
+    color: #024e8b;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 60px;
+	height: 100px;
 }
+
 
 .lists {
 	display: flex;
@@ -49,7 +50,8 @@ header {
 }
 
 .lists .list .list-item {
-	background-color: #F3F3F3;
+    color: #f9f9fa;
+	background-color: #024e8b;
 	border-radius: 8px;
 	padding: 15px 20px;
 	text-align: center;
