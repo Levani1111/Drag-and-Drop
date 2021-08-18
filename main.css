@@ -5,7 +5,7 @@
 }
 
 body {
-	background-color: #c6e5ff;
+	background-color: #0000008c;
 	font-family: 'Roboto', Helvetica, sans-serif;
 }
 
@@ -43,7 +43,7 @@ header, h1 {
 	height: 100%;
 	min-height: 150px;
 
-	background-color: rgba(0, 0, 0, 0.1);
+	background-color: rgba(218, 218, 218, 0.24);
 	margin: 0 15px;
 	padding: 8px;
 	transition: all 0.2s linear;
