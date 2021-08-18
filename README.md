@@ -10,6 +10,7 @@ This is simpole Drag and Drop app with
 * [netlify](https://app.netlify.com/)
 * https://draganddropjs.netlify.app/
 
+
 <hr/>
 
 ##### Created by Levani Papashvili @2021
